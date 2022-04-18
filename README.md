@@ -5,10 +5,5 @@ This is a personal project for the Udacity Machine Learning nanodegree. The obje
 
 There are two files in this repository:
 
-1. boston_housing_mkh.ipynb
-
-  This is the jupyter notebook file containing the project contents and results.
-
-3. report.html
-
-  This is an HTML export of the project notebook file. 
+1. boston_housing_mkh.ipynb (this is the jupyter notebook file containing the project contents and results)
+2. report.html (this is an HTML export of the project notebook file)
