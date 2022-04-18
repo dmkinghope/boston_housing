@@ -1,7 +1,7 @@
 # boston_housing
 Boston Housing Project
 
-This is a personal project for the Udacity Machine Learning nanodegree. The objective of this project is to predict the optimal sale price on a house in Boston, based on a public dataset that contains information on the Boston housing market.
+This is a personal project for the Udacity Machine Learning nanodegree. The objective of this project is to predict the optimal sale price on a house in Boston, based on a public dataset that contains information on the Boston housing market collected in 1978.
 
 There are two files in this repository:
 
